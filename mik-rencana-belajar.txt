@@ -1,4 +1,4 @@
 RENCANA BELAJAR
 
 -belajar dengan giat
--belajar laravel
+-laravel 8
