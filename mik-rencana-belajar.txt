@@ -1,3 +1,4 @@
 RENCANA BELAJAR
 
 -belajar dengan giat
+-belajar laravel
